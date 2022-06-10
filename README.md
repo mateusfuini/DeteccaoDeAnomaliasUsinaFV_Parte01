@@ -1,2 +1,2 @@
 # DeteccaoDeAnomaliasUsinaFV_Parte01
-Projeto de detecção de anomalias em usinas fotovoltáicas
+Projeto de detecção de anomalias em usinas fotovoltaicas
